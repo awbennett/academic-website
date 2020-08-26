@@ -1,7 +1,7 @@
 ---
 title: Policy evaluation with latent confounders via optimal balance
 date: '2019-01-01'
-draft: true
+draft: false
 publishDate: '2020-08-26T05:42:43.262457Z'
 authors:
 - Andrew Bennett
