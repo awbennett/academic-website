@@ -23,18 +23,14 @@ social:
     icon: github
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Science in Computer Science
+      institution: The University of Melbourne
+      year: 2016
+    - course: Bachelor of Science
+      institution: The University of Melbourne
+      year: 2013
 email: ""
 user_groups:
-  - Researchers
-  - Visitors
+  - ""
 ---
 I am a fourth year PhD student at Cornell University in the Computer Science department, supervised by [Nathan Kallus](http://www.nathankallus.com/). My current research focus is at the intersection of causal inference, machine learning, and econometrics, with particular interest in causal inference under unmeasured confounding, reinforcement learning, and efficiently solving high-dimensional conditional moment problems. Previously, during my Masters at the University of Melbourne, I conducted research in Natural Language Processing and Computational Linguistics.
