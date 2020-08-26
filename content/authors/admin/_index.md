@@ -10,22 +10,14 @@ role: PhD Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Causal Inference
+  - Machine Learning
+  - Reinforcement Learning
+  - Econometrics
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
+  - link: https://scholar.google.com/citations?user=5a8ZQn4AAAAJ&hl=en
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    icon: google-scholar
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -42,4 +34,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a fourth year PhD student at Cornell University in the Computer Science department, supervised by [Nathan Kallus](http://www.nathankallus.com/). My current research focus is at the intersection of causal inference and machine learning, with particular interest in causal inference under unmeasured confounding, reinforcement learning, and efficiently solving high-dimensional conditional moment problems. Previously, during my Masters at the University of Melbourne, I conducted research in Natural Language Processing and Computational Linguistics.
+I am a fourth year PhD student at Cornell University in the Computer Science department, supervised by [Nathan Kallus](http://www.nathankallus.com/). My current research focus is at the intersection of causal inference, machine learning, and econometrics, with particular interest in causal inference under unmeasured confounding, reinforcement learning, and efficiently solving high-dimensional conditional moment problems. Previously, during my Masters at the University of Melbourne, I conducted research in Natural Language Processing and Computational Linguistics.
