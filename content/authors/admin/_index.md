@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: Cornell University
     url: ""
 superuser: true
 authors:
