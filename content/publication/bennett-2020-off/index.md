@@ -1,6 +1,5 @@
 ---
-title: Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent
-  Confounders
+title: Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders
 date: '2020-27-07'
 draft: true
 publishDate: '2020-08-26T05:42:43.351259Z'
