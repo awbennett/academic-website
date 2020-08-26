@@ -1,5 +1,5 @@
 ---
-title: Policy evaluation with latent confounders via optimal balance
+title: Policy Evaluation with Latent Confounders via Optimal Balance
 date: '2019-12-10'
 draft: false
 publishDate: '2020-08-26T05:42:43.262457Z'
