@@ -7,9 +7,29 @@ authors:
 - Andrew Bennett
 - Nathan Kallus
 publication_types:
-- 3
-abstract: ''
+- 1
+abstract: '''
+    Recent work on policy learning from observational data has
+    highlighted the importance of efficient policy evaluation
+    and has proposed reductions to weighted (cost-sensitive)
+    classification. But, efficient policy evaluation need not
+    yield efficient estimation of policy parameters. We consider
+    the estimation problem given by a weighted surrogate-loss
+    classification with any score function, either direct,
+    inverse-propensity-weighted, or doubly robust. We show that,
+    under a correct specification assumption, the weighted
+    classification formulation need not be efficient for policy
+    parameters. We draw a contrast to actual (possibly weighted)
+    binary classification, where correct specification implies
+    a parametric model, while for policy learning it only implies
+    a semi-parametric model. In light of this, we instead propose
+    an estimation approach based on generalized method of moments,
+    which is efficient for the policy parameters. We propose a
+    particular method based on recent developments on solving
+    moment problems using neural networks and demonstrate the
+    efficiency and regret benefits of this method empirically.
+'''
 featured: false
-publication: '*arXiv preprint arXiv:2002.05153*'
+publication: '*International Conference on Machine Learning*'
 ---
 
