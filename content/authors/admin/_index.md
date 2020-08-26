@@ -15,10 +15,10 @@ interests:
   - Reinforcement Learning
   - Econometrics
 social:
-  - link: "#contact https://scholar.google.com/citations?user=5a8ZQn4AAAAJ&hl=en"
+  - link: https://scholar.google.com/citations?user=5a8ZQn4AAAAJ&hl=en/
     icon_pack: ai
     icon: google-scholar
-  - link: https://github.com/awbennett
+  - link: https://github.com/awbennett/
     icon_pack: ai
     icon: github
 education:
