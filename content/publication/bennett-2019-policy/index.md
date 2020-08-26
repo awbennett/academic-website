@@ -1,6 +1,6 @@
 ---
 title: Policy evaluation with latent confounders via optimal balance
-date: '2019-01-01'
+date: '2019-12-10'
 draft: false
 publishDate: '2020-08-26T05:42:43.262457Z'
 authors:
