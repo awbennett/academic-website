@@ -27,8 +27,7 @@ abstract: '''
     which is efficient for the policy parameters. We propose a
     particular method based on recent developments on solving
     moment problems using neural networks and demonstrate the
-    efficiency and regret benefits of this method empirically.
-'''
+    efficiency and regret benefits of this method empirically.'''
 featured: false
 publication: '*International Conference on Machine Learning*'
 url_pdf: https://arxiv.org/pdf/2002.05153.pdf

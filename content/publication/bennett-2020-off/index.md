@@ -28,8 +28,7 @@ abstract: '''
     we show optimal balancing can be combined with such learned
     ratios to obtain policy value while avoiding direct modeling
     of reward functions. We establish theoretical guarantees of
-    consistency, and benchmark our method empirically.
-'''
+    consistency, and benchmark our method empirically.'''
 featured: false
 publication: '*arXiv preprint arXiv:2007.13893*'
 url_pdf: https://arxiv.org/pdf/2007.13893.pdf

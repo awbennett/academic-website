@@ -26,8 +26,7 @@ abstract: '''
     Numerical results show our algorithm matches the performance
     of the best tuned methods in standard settings and continues
     to work in high-dimensional settings where even recent methods
-    break.
-'''
+    break.'''
 
 featured: false
 publication: '*Advances in Neural Information Processing Systems*'

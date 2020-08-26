@@ -24,8 +24,7 @@ abstract: '''
     sufficient balance in the latent confounders regardless of
     outcome model. We develop theory characterizing the consistency
     of our method and tractable algorithms for it. Empirical results
-    validate the power of our method when confounders are latent.
-'''
+    validate the power of our method when confounders are latent.'''
 featured: false
 publication: '*Advances in Neural Information Processing Systems*'
 url_pdf: https://papers.nips.cc/paper/8729-policy-evaluation-with-latent-confounders-via-optimal-balance.pdf
