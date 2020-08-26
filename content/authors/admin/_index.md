@@ -42,6 +42,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a fourth year PhD student at Cornell University in the Computer Science department, supervised by [Nathan Kallus](http://www.nathankallus.com/). My current research focus is at the intersection of causal inference and machine learning, with particular interest in causal inference under unmeasured confounding, reinforcement learning, and efficiently solving high-dimensional conditional moment problems.
-
-Previously I worked on
+I am a fourth year PhD student at Cornell University in the Computer Science department, supervised by [Nathan Kallus](http://www.nathankallus.com/). My current research focus is at the intersection of causal inference and machine learning, with particular interest in causal inference under unmeasured confounding, reinforcement learning, and efficiently solving high-dimensional conditional moment problems. Previously, during my Masters at the University of Melbourne, I conducted research in Natural Language Processing and Computational Linguistics.
