@@ -15,7 +15,7 @@ interests:
   - Reinforcement Learning
   - Econometrics
 social:
-  - link: awb222@cornell.edu
+  - link: mailto:awb222@cornell.edu
     icon_pack: fas
     icon: envelope
   - link: https://scholar.google.com/citations?user=5a8ZQn4AAAAJ
