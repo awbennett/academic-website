@@ -32,4 +32,5 @@ abstract: '''
 '''
 featured: false
 publication: '*arXiv preprint arXiv:2007.13893*'
+url_pdf: https://arxiv.org/pdf/2007.13893.pdf
 ---

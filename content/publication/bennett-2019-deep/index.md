@@ -31,5 +31,6 @@ abstract: '''
 
 featured: false
 publication: '*Advances in Neural Information Processing Systems*'
+url_pdf: https://papers.nips.cc/paper/8615-deep-generalized-method-of-moments-for-instrumental-variable-analysis.pdf
 ---
 
