@@ -18,6 +18,9 @@ social:
   - link: https://scholar.google.com/citations?user=5a8ZQn4AAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
+  - link: https://github.com/awbennett
+    icon_pack: ai
+    icon: github
 education:
   courses:
     - course: PhD in Artificial Intelligence
