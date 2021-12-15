@@ -2,7 +2,7 @@
 title: Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders
 date: '2021-15-04'
 draft: false
-publishDate: '2020-08-26T05:42:43.351259Z'
+publishDate: '2021-15-04T05:42:43.351259Z'
 authors:
 - Andrew Bennett
 - Nathan Kallus
