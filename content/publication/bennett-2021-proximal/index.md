@@ -26,7 +26,7 @@ abstract: '''
     possible by the existence of so-called bridge functions. We then show how
     to construct semiparametrically efficient estimators in these settings.
     We term the resulting framework proximal reinforcement learning (PRL). We
-    demonstrate the benefits of PRL in an extensive simulation study.
+    demonstrate the benefits of PRL in an extensive simulation study.'''
 featured: false
 publication: '*arXiv preprint arXiv:2110.15332*'
 url_pdf: https://arxiv.org/pdf/2110.15332.pdf
