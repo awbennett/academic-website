@@ -1,8 +1,8 @@
 ---
 title: Deep Generalized Method of Moments for Instrumental Variable Analysis
-date: '2019-12-10'
+date: '2021-12-10'
 draft: false 
-publishDate: '2019-12-10T05:42:43.262457Z'
+publishDate: '2021-12-10T05:42:43.262457Z'
 authors:
 - Andrew Bennett
 - Nathan Kallus
