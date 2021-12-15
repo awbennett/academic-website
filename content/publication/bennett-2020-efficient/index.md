@@ -30,6 +30,6 @@ abstract: '''
     efficiency and regret benefits of this method empirically.'''
 featured: false
 publication: '*International Conference on Machine Learning*'
-url_pdf: https://arxiv.org/pdf/2002.05153.pdf
+url_pdf: http://proceedings.mlr.press/v119/bennett20a/bennett20a.pdf
 ---
 
