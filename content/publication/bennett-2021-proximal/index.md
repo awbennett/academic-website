@@ -1,5 +1,5 @@
 ---
-title: Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes
+title: 'Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes'
 date: '2021-28-10'
 draft: false
 publishDate: '2020-08-26T05:42:43.351259Z'
