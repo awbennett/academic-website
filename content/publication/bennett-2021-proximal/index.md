@@ -1,8 +1,8 @@
 ---
 title: 'Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes'
-date: '2021-28-10'
+date: '2021-10-28'
 draft: false
-publishDate: '2021-28-10T05:42:43.351259Z'
+publishDate: '2021-10-28T05:42:43.351259Z'
 authors:
 - Andrew Bennett
 - Nathan Kallus

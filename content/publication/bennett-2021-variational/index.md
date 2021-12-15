@@ -1,8 +1,8 @@
 ---
 title: The Variational Method of Moments
-date: '2021-28-05'
+date: '2021-05-28'
 draft: false
-publishDate: '2021-28-05T05:42:43.351259Z'
+publishDate: '2021-05-28T05:42:43.351259Z'
 authors:
 - Andrew Bennett
 - Nathan Kallus
