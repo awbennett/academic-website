@@ -9,7 +9,7 @@ authors:
 - Lihong Li
 - Ali Mousavi
 publication_types:
-- 3
+- 1
 abstract: '''
     Off-policy evaluation (OPE) in reinforcement learning is an important
     problem in settings where experimentation is limited, such as healthcare.

@@ -27,7 +27,7 @@ abstract: '''
     We term the resulting framework proximal reinforcement learning (PRL). We
     demonstrate the benefits of PRL in an extensive simulation study.'''
 featured: false
-publication: '*arXiv preprint arXiv:2110.15332*'
+publication: '*Major revision in OR*'
 url_pdf: https://arxiv.org/pdf/2110.15332.pdf
 
 ---
