@@ -34,6 +34,6 @@ abstract: '''
 '''
 featured: false
 publication: '*arXiv preprint arXiv:2207.13081*'
-url_pdf: https://arxiv.org/abs/2207.13081.pdf
+url_pdf: https://arxiv.org/pdf/2207.13081.pdf
 
 ---
