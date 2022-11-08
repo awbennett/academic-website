@@ -25,7 +25,7 @@ abstract: '''
     sense for lemmas missing from SemCor, and at least on par with SemCor-based
     distributions otherwise.'''
 featured: false
-publication: '*The Annual Meeting of the Association for Computational Linguistics (ACL)*
+publication: '*The Annual Meeting of the Association for Computational Linguistics (ACL)*'
 url_pdf: https://aclanthology.org/P16-1143.pdf
 
 ---
