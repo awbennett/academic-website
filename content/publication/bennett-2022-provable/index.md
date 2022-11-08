@@ -31,7 +31,7 @@ abstract: '''
     empirical frameworks.
 '''
 featured: false
-publication: '*arXiv preprint arXiv:2210.14492*'
+publication: '*arXiv Preprint*'
 url_pdf: https://arxiv.org/pdf/2210.14492.pdf
 
 ---

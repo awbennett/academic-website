@@ -29,7 +29,7 @@ abstract: '''
     moment problems using neural networks and demonstrate the
     efficiency and regret benefits of this method empirically.'''
 featured: false
-publication: '*International Conference on Machine Learning*'
+publication: '*International Conference on Machine Learning (ICML)*'
 url_pdf: http://proceedings.mlr.press/v119/bennett20a/bennett20a.pdf
 ---
 

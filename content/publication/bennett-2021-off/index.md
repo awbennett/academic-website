@@ -27,7 +27,7 @@ abstract: '''
     of reward functions. We establish theoretical guarantees of consistency
     and benchmark our method empirically.'''
 featured: false
-publication: '*International Conference on Artificial Intelligence and Statistics*'
+publication: '*International Conference on Artificial Intelligence and Statistics (AISTATS)*'
 url_pdf: http://proceedings.mlr.press/v130/bennett21a/bennett21a.pdf
 
 ---

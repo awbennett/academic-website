@@ -33,7 +33,7 @@ abstract: '''
     approach and the well-known spectral learning methods in POMDPs.
 '''
 featured: false
-publication: '*arXiv preprint arXiv:2207.13081*'
+publication: '*arXiv Preprint*'
 url_pdf: https://arxiv.org/pdf/2207.13081.pdf
 
 ---

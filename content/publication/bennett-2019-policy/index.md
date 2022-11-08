@@ -26,7 +26,7 @@ abstract: '''
     of our method and tractable algorithms for it. Empirical results
     validate the power of our method when confounders are latent.'''
 featured: false
-publication: '*Advances in Neural Information Processing Systems*'
+publication: '*Advances in Neural Information Processing Systems (NeurIPS)*'
 url_pdf: https://papers.nips.cc/paper/8729-policy-evaluation-with-latent-confounders-via-optimal-balance.pdf
 ---
 
