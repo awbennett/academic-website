@@ -30,8 +30,7 @@ abstract: '''
     as long as futures and histories contain sufficient information about
     latent states, and the Bellman completeness. Finally, we extend our
     methods to learning of dynamics and establish the connection between our
-    approach and the well-known spectral learning methods in POMDPs.
-'''
+    approach and the well-known spectral learning methods in POMDPs.'''
 featured: false
 publication: '*arXiv Preprint*'
 url_pdf: https://arxiv.org/pdf/2207.13081.pdf

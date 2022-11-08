@@ -28,8 +28,7 @@ abstract: '''
     during training, and is guaranteed to return a near-optimal safe policy
     with high probability. We provide a discussion of how our meta-algorithm
     may be applied to various settings studied in both theoretical and
-    empirical frameworks.
-'''
+    empirical frameworks.'''
 featured: false
 publication: '*arXiv Preprint*'
 url_pdf: https://arxiv.org/pdf/2210.14492.pdf

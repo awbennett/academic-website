@@ -27,7 +27,6 @@ abstract: '''
     of the best tuned methods in standard settings and continues
     to work in high-dimensional settings where even recent methods
     break.'''
-
 featured: false
 publication: '*Advances in Neural Information Processing Systems (NeurIPS)*'
 url_pdf: https://papers.nips.cc/paper/8615-deep-generalized-method-of-moments-for-instrumental-variable-analysis.pdf
