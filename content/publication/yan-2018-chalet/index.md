@@ -11,7 +11,7 @@ authors:
 - Yonatan Bisk
 - Yoav Artzi
 publication_types:
-- 1
+- 4
 abstract: '''
     We present CHALET, a 3D house simulator with support for navigation and
     manipulation. CHALET includes 58 rooms and 10 house configuration,
@@ -22,7 +22,7 @@ abstract: '''
     domain to train and evaluate autonomous agents, including for tasks
     that combine language, vision, and planning in a dynamic environment.'''
 featured: false
-publication: '*arXiv Preprint*'
+publication: '*Technical Report*'
 url_pdf: https://arxiv.org/pdf/1801.07357.pdf
 
 ---
