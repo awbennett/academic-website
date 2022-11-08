@@ -1,5 +1,5 @@
 ---
-title: CHALET: Cornell House Agent Learning Environment
+title: 'CHALET: Cornell House Agent Learning Environment'
 date: '2019-01-23'
 draft: false
 publishDate: '2018-01-23T05:42:43.351259Z'

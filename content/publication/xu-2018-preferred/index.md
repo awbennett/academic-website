@@ -1,5 +1,5 @@
 ---
-title: Preferred answer selection in stack overflow: Better text representations... and metadata, metadata, metadata
+title: 'Preferred answer selection in stack overflow: Better text representations... and metadata, metadata, metadata'
 date: '2018-11-01'
 draft: false
 publishDate: '2018-11-01T05:42:43.351259Z'
