@@ -1,5 +1,5 @@
 ---
-title: LexSemTM: A Semantic Dataset Based on All-words Unsupervised Sense Distribution Learning
+title: 'LexSemTM: A Semantic Dataset Based on All-words Unsupervised Sense Distribution Learning'
 date: '2016-08-09'
 draft: false
 publishDate: '2016-08-09T05:42:43.351259Z'
