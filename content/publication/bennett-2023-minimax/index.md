@@ -33,7 +33,7 @@ abstract: '''
     conflicting, so relaxing the latter significantly improves upon the
     existing literature that requires both conditions. Our estimator can
     achieve this improvement because it builds on a novel formulation of the
-    IV estimation problem as a constrained optimization problem.
+    IV estimation problem as a constrained optimization problem.'''
 featured: false
 publication: '*arXiv Preprint*'
 url_pdf: https://arxiv.org/pdf/2302.05404.pdf

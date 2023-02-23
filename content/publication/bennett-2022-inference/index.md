@@ -36,7 +36,7 @@ abstract: '''
     asymptotic normality under generic high-level conditions, which provide
     for asymptotically valid confidence intervals. We also illustrate our
     method in a novel partially linear proximal causal inference problem and
-    a partially linear instrumental variable regression problem.
+    a partially linear instrumental variable regression problem.'''
 featured: false
 publication: '*arXiv Preprint*'
 url_pdf: https://arxiv.org/pdf/2208.08291.pdf
