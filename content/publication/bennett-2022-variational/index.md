@@ -30,7 +30,7 @@ abstract: '''
     we demonstrate the strong performance of our proposed estimation and
     inference algorithms in a detailed series of synthetic experiments.'''
 featured: false
-publication: '*Major revision in JRSS:B*'
+publication: '*Minor revision in JRSS:B*'
 url_pdf: https://arxiv.org/pdf/2012.09422.pdf
 
 ---

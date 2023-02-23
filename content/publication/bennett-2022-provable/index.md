@@ -30,7 +30,7 @@ abstract: '''
     may be applied to various settings studied in both theoretical and
     empirical frameworks.'''
 featured: false
-publication: '*arXiv Preprint*'
+publication: '*accepted at AISTATS*'
 url_pdf: https://arxiv.org/pdf/2210.14492.pdf
 
 ---
