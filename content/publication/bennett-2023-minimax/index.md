@@ -1,5 +1,5 @@
 ---
-title: Provable Safe Reinforcement Learning with Binary Feedback
+title: Minimax Instrumental Variable Regression and L2 Convergence Guarantees without Identification or Closedness
 date: '2023-02-10'
 draft: false
 publishDate: '2023-02-10T05:42:43.351259Z'

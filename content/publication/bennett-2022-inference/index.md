@@ -1,5 +1,5 @@
 ---
-title: Provable Safe Reinforcement Learning with Binary Feedback
+title: Inference on strongly identified functionals of weakly identified functions
 date: '2022-12-26'
 draft: false
 publishDate: '2022-12-26T05:42:43.351259Z'
