@@ -19,7 +19,7 @@ abstract: '''
     methods have at least one of the following limitations: (1) restricting
     the IV regression to be uniquely identified; (2) only obtaining
     estimation error rates in terms of pseudometrics (e.g. projected
-    norm) rather than valid metrics (e.g.  norm); or (3) imposing
+    norm) rather than valid metrics (e.g. L2 norm); or (3) imposing
     the so-called closedness condition that requires a certain conditional
     expectation operator to be sufficiently smooth. In this paper, we present
     the first method and analysis that can avoid all three limitations,
