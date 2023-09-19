@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Cornell University
+  - name: Morgan Stanley
     url: ""
 superuser: true
 authors:
