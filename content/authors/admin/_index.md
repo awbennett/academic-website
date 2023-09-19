@@ -6,16 +6,16 @@ superuser: true
 authors:
   - admin
 title: Andrew Bennett
-role: PhD Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Machine Learning Researcher
+bio: blank.
 interests:
-  - Causal Inference
-  - Machine Learning
+  - Causal Machine Learning
+  - Data-driven Decision Making
   - Reinforcement Learning
   - Econometrics
+  - Probabilistic Machine Learning
 social:
-  - link: mailto:awb222@cornell.edu
+  - link: mailto:Andrew.Bennett@morganstanley.com
     icon_pack: fas
     icon: envelope
   - link: https://scholar.google.com/citations?user=5a8ZQn4AAAAJ
@@ -26,6 +26,9 @@ social:
     icon: github
 education:
   courses:
+    - course: Doctor of Philosophy in Computer Science
+      institution: Cornell University
+      year: 2023
     - course: Master of Science in Computer Science
       institution: The University of Melbourne
       year: 2016
@@ -36,4 +39,4 @@ email: ""
 user_groups:
   - ""
 ---
-I am a fifth year PhD student at Cornell University in the Computer Science department, supervised by [Nathan Kallus](http://www.nathankallus.com/). My current research focus is at the intersection of causal inference, machine learning, and econometrics, with particular interest in causal inference under unmeasured confounding, reinforcement learning, and efficiently solving high-dimensional conditional moment problems. Previously, during my Masters at the University of Melbourne, I conducted research in Natural Language Processing and Computational Linguistics.
+I am a machine learning researcher in the Machine Learning Research group at Morgan Stanley. I have diverse research interests in the area of machine learning, with particular interest in causal machine learning, data-driven decision making, reinforcement learning, econometrics, and probabilistic machine learning. Before that, I was a PhD student at Cornell University in the Computer Science department, supervised by [Nathan Kallus](http://www.nathankallus.com/).
