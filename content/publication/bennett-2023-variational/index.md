@@ -1,13 +1,13 @@
 ---
 title: The Variational Method of Moments
-date: '2022-10-04'
+date: '2023-04-27'
 draft: false
-publishDate: '2022-10-04T05:42:43.351259Z'
+publishDate: '2023-04-27T05:42:43.351259Z'
 authors:
 - Andrew Bennett
 - Nathan Kallus
 publication_types:
-- 3
+- 2
 abstract: '''
     The conditional moment problem is a powerful formulation for describing
     structural causal parameters in terms of observables, a prominent example
@@ -30,7 +30,6 @@ abstract: '''
     we demonstrate the strong performance of our proposed estimation and
     inference algorithms in a detailed series of synthetic experiments.'''
 featured: false
-publication: '*Minor revision in JRSS:B*'
-url_pdf: https://arxiv.org/pdf/2012.09422.pdf
-
+publication: '*Journal of the Royal Statistical Society Series B: Statistical Methodology (JRSS:B)*'
+url_pdf: https://academic.oup.com/jrsssb/article-pdf/85/3/810/50859763/qkad025.pdf
 ---

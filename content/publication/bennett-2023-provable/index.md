@@ -1,14 +1,14 @@
 ---
 title: Provable Safe Reinforcement Learning with Binary Feedback
-date: '2022-10-26'
+date: '2023-04-26'
 draft: false
-publishDate: '2022-10-26T05:42:43.351259Z'
+publishDate: '2023-04-26T05:42:43.351259Z'
 authors:
 - Andrew Bennett
 - Dipendra Misra
 - Nathan Kallus
 publication_types:
-- 3
+- 1
 abstract: '''
     Safety is a crucial necessity in many applications of reinforcement
     learning (RL), whether robotic, automotive, or medical. Many existing
@@ -30,7 +30,7 @@ abstract: '''
     may be applied to various settings studied in both theoretical and
     empirical frameworks.'''
 featured: false
-publication: '*Accepted at AISTATS*'
-url_pdf: https://arxiv.org/pdf/2210.14492.pdf
+publication: '*International Conference on Artificial Intelligence and Statistics (AISTATS)*'
+url_pdf: https://proceedings.mlr.press/v206/bennett23a/bennett23a.pdf
 
 ---

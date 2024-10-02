@@ -1,8 +1,8 @@
 ---
 title: Minimax Instrumental Variable Regression and L2 Convergence Guarantees without Identification or Closedness
-date: '2023-02-10'
+date: '2023-07-12'
 draft: false
-publishDate: '2023-02-10T05:42:43.351259Z'
+publishDate: '2023-07-12T05:42:43.351259Z'
 authors:
 - Andrew Bennett
 - Nathan Kallus
@@ -11,7 +11,7 @@ authors:
 - Vasilis Syrgkanis
 - Masatoshi Uehara
 publication_types:
-- 3
+- 1
 abstract: '''
     In this paper, we study nonparametric estimation of instrumental variable
     (IV) regressions. Recently, many flexible machine learning methods have
@@ -35,7 +35,7 @@ abstract: '''
     achieve this improvement because it builds on a novel formulation of the
     IV estimation problem as a constrained optimization problem.'''
 featured: false
-publication: '*arXiv Preprint*'
-url_pdf: https://arxiv.org/pdf/2302.05404.pdf
+publication: '*Conference on Learning Theory (COLT)*'
+url_pdf: https://proceedings.mlr.press/v195/bennett23b/bennett23b.pdf
 
 ---

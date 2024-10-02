@@ -1,8 +1,8 @@
 ---
 title: Future-Dependent Value-Based Off-Policy Evaluation in POMDPs
-date: '2022-07-26'
+date: '2023-12-13'
 draft: false
-publishDate: '2022-07-26T05:42:43.351259Z'
+publishDate: '2023-12-13T05:42:43.351259Z'
 authors:
 - Masatoshi Uehara
 - Haruka Kiyohara
@@ -13,7 +13,7 @@ authors:
 - Chengchun Shi
 - Wen Sun
 publication_types:
-- 3
+- 1
 abstract: '''
     We study off-policy evaluation (OPE) for partially observable MDPs (POMDPs)
     with general function approximation. Existing methods such as sequential
@@ -32,7 +32,7 @@ abstract: '''
     methods to learning of dynamics and establish the connection between our
     approach and the well-known spectral learning methods in POMDPs.'''
 featured: false
-publication: '*arXiv Preprint*'
-url_pdf: https://arxiv.org/pdf/2207.13081.pdf
+publication: '*International Conference on Neural Information Processing Systems (NeurIPS)*'
+url_pdf: https://proceedings.neurips.cc/paper_files/paper/2023/file/3380e8116452e0efbf36f35d95e88c94-Paper-Conference.pdf
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: 'Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes'
-date: '2021-10-28'
+date: '2023-09-26'
 draft: false
-publishDate: '2021-10-28T05:42:43.351259Z'
+publishDate: '2023-09-26T05:42:43.351259Z'
 authors:
 - Andrew Bennett
 - Nathan Kallus
 publication_types:
-- 3
+- 2
 abstract: '''
     In applications of offline reinforcement learning to observational data,
     such as in healthcare or education, a general concern is that observed
@@ -27,7 +27,7 @@ abstract: '''
     We term the resulting framework proximal reinforcement learning (PRL). We
     demonstrate the benefits of PRL in an extensive simulation study.'''
 featured: false
-publication: '*Major revision in OR*'
+publication: '*Operations Research (OR)*'
 url_pdf: https://arxiv.org/pdf/2110.15332.pdf
 
 ---

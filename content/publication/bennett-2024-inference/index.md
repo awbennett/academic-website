@@ -1,8 +1,8 @@
 ---
 title: Inference on strongly identified functionals of weakly identified functions
-date: '2022-12-26'
+date: '2024-01-06'
 draft: false
-publishDate: '2022-12-26T05:42:43.351259Z'
+publishDate: '2024-01-06T05:42:43.351259Z'
 authors:
 - Andrew Bennett
 - Nathan Kallus
@@ -38,7 +38,7 @@ abstract: '''
     method in a novel partially linear proximal causal inference problem and
     a partially linear instrumental variable regression problem.'''
 featured: false
-publication: '*arXiv Preprint*'
+publication: '*Major revision in JRSS:B*'
 url_pdf: https://arxiv.org/pdf/2208.08291.pdf
 
 ---
