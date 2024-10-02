@@ -37,7 +37,7 @@ abstract: '''
     (orthogonality), and accounting for having only finite samples to learn
     from (inference) together leads to credible and reliable policy evaluation.'''
 featured: false
-publication: '*accepted at NeurIPS*'
+publication: '*Accepted at NeurIPS*'
 url_pdf: https://arxiv.org/pdf/2404.00099
 
 ---
