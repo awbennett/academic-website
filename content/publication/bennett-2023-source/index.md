@@ -1,6 +1,6 @@
 ---
 title: Source Condition Double Robust Inference on Functionals of Inverse Problems
-date: '2033-07-25'
+date: '2023-07-25'
 draft: false
 publishDate: '2023-07-25T05:42:43.351259Z'
 authors:
